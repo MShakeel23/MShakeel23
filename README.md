@@ -6,6 +6,6 @@
 
 🌱 I’m currently learning full-stack development and working on real-world projects to build practical skills.
 
-📬 You can reach me at: **shakeelmohamed.tech@gmail.com**
+📬 You can reach me at: **mohamedshakeel523gmail.com**
 
 Thanks for visiting my GitHub!
